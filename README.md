@@ -8,14 +8,7 @@
 
 ---
 
-## ✦ Was mich antreibt
-
-<table>
-  <tr><td>📚 <b>Bildung</b></td><td>Abitur · BGY Sachsen · Schwerpunkt Informatiksysteme</td></tr>
-  <tr><td>🖨️ <b>Maker</b></td><td>3D-Druck &amp; DIY</td></tr>
-  <tr><td>🌱 <b>Lerne gerade</b></td><td>JS &amp; PHP · Python · SQL</td></tr>
-  <tr><td>🏠 <b>Self-Hosted</b></td><td>Nextcloud auf eigenem Server</td></tr>
-</table>
+<img src="assets/about.svg" width="100%"/>
 
 ---
 
