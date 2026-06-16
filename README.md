@@ -1,8 +1,8 @@
-<img src="banner.svg" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=900&color=ff6600&center=true&vCenter=true&width=500&lines=Python+%7C+React+%7C+HTML%2FCSS+%7C+SQL;3D-Druck+%26+DIY+Maker+%F0%9F%96%A8%EF%B8%8F;BGY+Sachsen+%E2%80%93+12.+Klasse+%F0%9F%8E%93;Gaming+%26+GPU-Enthusiast+%F0%9F%8E%AE;Immer+am+Lernen+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=900&color=ff6600&center=true&vCenter=true&width=500&lines=Python+%7C+PHP+%7C+Pascal+%7C+SQL;HTML+%2F+CSS+%2F+JavaScript;3D-Druck+%26+DIY+Maker+%F0%9F%96%A8%EF%B8%8F;Nextcloud+auf+eigenem+Server+%F0%9F%8F%A0;BGY+Sachsen+%E2%80%93+Abi+Informatiksysteme+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,10 +11,10 @@
 ## ✦ Was mich antreibt
 
 <table>
-  <tr><td>📚 <b>Bildung</b></td><td>12. Klasse · BGY Sachsen · Informatik &amp; Wirtschaft</td></tr>
-  <tr><td>🖨️ <b>Maker</b></td><td>3D-Druck &amp; DIY · Hardware trifft Software</td></tr>
-  <tr><td>🌱 <b>Lerne gerade</b></td><td>React &amp; JS · Python · SQL &amp; Git</td></tr>
-  <tr><td>🎮 <b>Off-Screen</b></td><td>Gaming · Tech · GPU-Enthusiast</td></tr>
+  <tr><td>📚 <b>Bildung</b></td><td>Abitur · BGY Sachsen · Schwerpunkt Informatiksysteme</td></tr>
+  <tr><td>🖨️ <b>Maker</b></td><td>3D-Druck &amp; DIY</td></tr>
+  <tr><td>🌱 <b>Lerne gerade</b></td><td>JS &amp; PHP · Python · SQL</td></tr>
+  <tr><td>🏠 <b>Self-Hosted</b></td><td>Nextcloud auf eigenem Server</td></tr>
 </table>
 
 ---
@@ -23,14 +23,16 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-c2410c?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ea580c?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff8c00?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-1a0800?style=for-the-badge&logo=react&logoColor=ff6600)
-![SQL](https://img.shields.io/badge/SQL-c2410c?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1a0800?style=for-the-badge&logo=visual-studio-code&logoColor=ff6600)
+[![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-ff6600?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Pascal](https://img.shields.io/badge/Pascal-ff4500?style=for-the-badge&logoColor=white)](https://www.freepascal.org)
+[![HTML5](https://img.shields.io/badge/HTML5-c2410c?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-ea580c?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ff8c00?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-c2410c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)](https://nextcloud.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1a0800?style=for-the-badge&logo=visual-studio-code&logoColor=ff6600)](https://code.visualstudio.com)
 
 </div>
 
@@ -46,10 +48,6 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeuersteinhD&layout=compact&hide_border=true&bg_color=0d0400&title_color=ff6600&text_color=b09070" height="115"/>
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FeuersteinhD&theme=gruvbox&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
