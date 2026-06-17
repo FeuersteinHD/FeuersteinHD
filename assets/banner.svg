@@ -16,7 +16,7 @@
     <style>.a{animation:f .6s ease .2s both}.b{animation:f .75s cubic-bezier(.22,1,.36,1) .5s both}.c{animation:f .5s ease .95s both}@keyframes f{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}</style>
   </defs>
   <rect width="900" height="220" fill="url(#bg)"/>
-  <text class="a" x="58" y="68" fill="#ff6600" font-family="'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="2.5">✦ // @FeuersteinhD</text>
-  <text class="b" x="52" y="162" font-family="'Arial Black',Impact,sans-serif" font-size="88" font-weight="900" fill="url(#fire)" filter="url(#glow)">FeuersteinhD</text>
+  <text class="a" x="58" y="68" fill="#ff6600" font-family="'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="2.5">✦ // @FeuersteinHD</text>
+  <text class="b" x="52" y="162" font-family="'Arial Black',Impact,sans-serif" font-size="88" font-weight="900" fill="url(#fire)" filter="url(#glow)">FeuersteinHD</text>
   <text class="c" x="58" y="198" fill="#7a4a30" font-family="Arial,sans-serif" font-size="14.5" letter-spacing="0.4">BGY Sachsen · Informatiksysteme</text>
 </svg>
