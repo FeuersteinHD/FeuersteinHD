@@ -18,5 +18,5 @@
   <rect width="900" height="220" fill="url(#bg)"/>
   <text class="a" x="58" y="68" fill="#ff6600" font-family="'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="2.5">✦ // @FeuersteinhD</text>
   <text class="b" x="52" y="162" font-family="'Arial Black',Impact,sans-serif" font-size="88" font-weight="900" fill="url(#fire)" filter="url(#glow)">FeuersteinhD</text>
-  <text class="c" x="58" y="198" fill="#7a4a30" font-family="Arial,sans-serif" font-size="14.5" letter-spacing="0.4">Abiturient · BGY Sachsen · Informatiksysteme</text>
+  <text class="c" x="58" y="198" fill="#7a4a30" font-family="Arial,sans-serif" font-size="14.5" letter-spacing="0.4">BGY Sachsen · Informatiksysteme</text>
 </svg>
