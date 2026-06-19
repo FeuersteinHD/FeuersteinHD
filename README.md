@@ -35,16 +35,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FeuersteinhD&show_icons=true&hide_border=true&bg_color=0d0400&title_color=ff6600&icon_color=ff4500&text_color=b09070&count_private=true&locale=de" height="155"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FeuersteinhD&hide_border=true&background=0d0400&ring=ff4500&fire=ffd700&currStreakLabel=ff6600&sideLabels=7a5040&currStreakNum=ffffff&sideNums=b09070&dates=5a3020" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FeuersteinHD&show_icons=true&hide_border=true&bg_color=0d0400&title_color=ff6600&icon_color=ff4500&text_color=b09070&count_private=true&locale=de" height="155"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=FeuersteinHD&hide_border=true&background=0d0400&ring=ff4500&fire=ffd700&currStreakLabel=ff6600&sideLabels=7a5040&currStreakNum=ffffff&sideNums=b09070&dates=5a3020" height="155"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeuersteinhD&layout=compact&hide_border=true&bg_color=0d0400&title_color=ff6600&text_color=b09070" height="115"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeuersteinHD&layout=compact&hide_border=true&bg_color=0d0400&title_color=ff6600&text_color=b09070" height="115"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FeuersteinhD&bg_color=0d0400&color=ff6600&line=ff4500&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FeuersteinHD&bg_color=0d0400&color=ff6600&line=ff4500&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
